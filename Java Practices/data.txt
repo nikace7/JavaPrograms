@@ -1,0 +1,6 @@
+Name: Nikesh
+Password: sadsa
+RePassword: asdas
+GenderMale
+Course:JavaPythonC++
+Country: India
